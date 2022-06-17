@@ -20,27 +20,27 @@ B.S. in Mechanical Engineering - ↗University of Florida  [2011-2014]
 - Built and deployed an NFT-minter contract in the Rinkeby testnet.
 [0xdebe8510ecb716408513c90a454416dc6dc79869](https://rinkeby.etherscan.io/address/0xdebe8510ecb716408513c90a454416dc6dc79869).
 
-### [TestCoin](https://github.com/solarsailorneo/testCoinICO) (ERC20 Contract) [2022] - Personal Project [git](https://github.com/solarsailorneo/testCoinICO) 
+### [TestCoin](https://github.com/solarsailorneo/testCoinICO) (ERC20 Contract) [2022] - Personal Project ([git](https://github.com/solarsailorneo/testCoinICO))
 - Built and deployed a smart contract for a test coin in the Rinkeby testnet.
 [0xCabfb905163A197931a88CBc226ea230007333Dc](https://rinkeby.etherscan.io/token/0xCabfb905163A197931a88CBc226ea230007333Dc).
 - Created a liquidity pool for TestCoin in Uniswap.
 
-### [Shared Wallet](https://github.com/solarsailorneo/sharedWallet) (Contract) [2022] - Personal Project [git](https://github.com/solarsailorneo/sharedWallet) 
+### [Shared Wallet](https://github.com/solarsailorneo/sharedWallet) (Contract) [2022] - Personal Project ([git](https://github.com/solarsailorneo/sharedWallet))
 - Built a wallet that has an owner who can set allowances for other wallets.
 - Used modifier functionality to contain pre-function conditions.
 
-### [Token Crowdsale](https://github.com/solarsailorneo/tokenCrowdsale) (Contract) [2022] - Personal Project [git](https://github.com/solarsailorneo/tokenCrowdsale)
+### [Token Crowdsale](https://github.com/solarsailorneo/tokenCrowdsale) (Contract) [2022] - Personal Project ([git](https://github.com/solarsailorneo/tokenCrowdsale))
 - Built a custom token that can be initially sold to a group of people.
 - Reentrancy-guard was used to prevent hacking of the crowdsale.
 - Used truffle deployment and chai tests to verify functionality.
 
-### [Venetian Election DAO](https://darling-nasturtium-65b4bd.netlify.app/)  (Frontend and Backend) [2022] - Personal Project [git](https://github.com/solarsailorneo/venetianElectionDAO)
+### [Venetian Election DAO](https://darling-nasturtium-65b4bd.netlify.app/)  (Frontend and Backend) [2022] - Personal Project ([git](https://github.com/solarsailorneo/venetianElectionDAO))
 - Designed a DAO wallet-election system based on the venetian election process (random/election rounds).
 - Built a react frontend for the designed election system leveraging a Moralis github repository.
 - Built a nodejs backend to compute the selection process.
 - Maintained my git repository with clean and coherent versioning, tags, commits, branches, and merging (copied repo to kill the trace. Ask for a screen share if want to see).
 
-### [NFT Transaction Tracker](https://vermillion-sfogliatella-6b7bdb.netlify.app/) (Frontend) [2022] - Personal Project [git](https://github.com/solarsailorneo/eventDetectorNFT)
+### [NFT Transaction Tracker](https://vermillion-sfogliatella-6b7bdb.netlify.app/) (Frontend) [2022] - Personal Project ([git](https://github.com/solarsailorneo/eventDetectorNFT))
 - Built a react front-end with NFT contract input field to track transfers.
 
 ### NFT cross-asset Model [2021-present] - Personal Project
@@ -73,7 +73,13 @@ B.S. in Mechanical Engineering - ↗University of Florida  [2011-2014]
 
 
 ### Skills
-Solidity (7.5/10)      Hardhat, Truffle, Chai (7.0/10)	 ReactJS (7.0/10)      Node (7.0/10)
-Git (9.0/10)             C++ (8.5/10)		             Python (8.0/10)        Pytorch (9.0/10)
-Data Analytics (10.0/10)
+- Solidity (7.5/10)
+- Hardhat, Truffle, Chai (7.0/10)	 
+- ReactJS (7.0/10)      
+- Node (7.0/10)
+- Git (9.0/10)
+- C++ (8.5/10)
+- Python (8.0/10)
+- Pytorch (9.0/10)
+- Data Analytics (10.0/10)
 
