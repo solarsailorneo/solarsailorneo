@@ -18,7 +18,7 @@ B.S. in Mechanical Engineering - ↗University of Florida  [2011-2014]
 
 
 
-### [MultiTokenStandard](https://github.com/solarsailorneo/mulitTokenStandard) (ERC1155 Contract) [2022] - Personal Project ([git](https://github.com/solarsailorneo/mulitTokenStandard)) [[workflow](https://github.com/solarsailorneo/mulitTokenStandard/network)]
+### [Multi Token Standard](https://github.com/solarsailorneo/mulitTokenStandard) (ERC1155 Contract) [2022] - Personal Project ([git](https://github.com/solarsailorneo/mulitTokenStandard)) [[workflow](https://github.com/solarsailorneo/mulitTokenStandard/network)]
 - Built a smart contract that inherited from the ERC1155 standard.
 - Designed constructor so that a number of tokens can be set when deploying the contract.
 - Built test in hardhat and mocha to verify that the number of tokens were minted to the deployer wallet.
