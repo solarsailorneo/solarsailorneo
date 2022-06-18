@@ -1,5 +1,5 @@
 # Solar Sailor
-solarsailorneo@protonmail.com
+## :envelope: solarsailorneo@protonmail.com
 
 ## Purpose
 To use the skills I have learned in my career to contribute to the development of web3.0. I want to build creative but secure smart contracts to leverage functionalities that add value to the global community. I mostly code in C++, but I also have knowledge in React, nodejs, and solidity.
