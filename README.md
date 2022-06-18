@@ -16,6 +16,12 @@ B.S. in Mechanical Engineering - ↗University of Florida  [2011-2014]
 - Built a smart contract with a key that can store multiple retrievable attributes on-chain.
 - Built tests in hardhat and mocha to verify functionality of contract.
 
+
+### [MultiTokenStandard](https://github.com/solarsailorneo/mulitTokenStandard) (ERC1155 Contract) [2022] - Personal Project ([git](https://github.com/solarsailorneo/mulitTokenStandard))
+- Built a smart contract that inherited from the ERC1155 standard.
+- Designed constructor so that a number of tokens can be set when deploying the contract.
+- Built test in hardhat and mocha to verify that the number of tokens were minted to the deployer wallet.
+
 ### [NFT Minter](https://snazzy-horse-8858d0.netlify.app/) (ERC721-Based Contract and Frontend) [2022] - Personal Project ([git](https://github.com/solarsailorneo/minterNFT))
 - Built a react frontend to mint NFTs.
 - Built and deployed an NFT-minter contract in the Rinkeby testnet.
