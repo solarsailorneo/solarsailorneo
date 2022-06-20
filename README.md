@@ -90,4 +90,5 @@ To use the skills I have learned in my career to contribute to the development o
 - Python (8.0/10)
 - Pytorch (9.0/10)
 - Data Analytics (10.0/10)
+- Linux (8.7/10)
 
