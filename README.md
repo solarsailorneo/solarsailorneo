@@ -6,8 +6,8 @@ To use the skills I have learned in my career to contribute to the development o
 
 
 ## Education
-M.S. in Robotics - ↗Carnegie Mellon - Robotics Institute [2015-2017]
-B.S. in Mechanical Engineering - ↗University of Florida  [2011-2014]
+M.S. in Robotics - [Carnegie Mellon - Robotics Institute](https://www.ri.cmu.edu/) [2015-2017]
+B.S. in Mechanical Engineering - [University of Florida](https://mae.ufl.edu/mechanical-engineering/)  [2011-2014]
 
 
 ## Projects (Engineering: 7 years | Development: 4 years)
