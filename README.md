@@ -1,6 +1,10 @@
 # Solar Sailor
 ## :envelope: solarsailorneo@protonmail.com
 
+![](https://komarev.com/ghpvc/?username=solarsailorneo)
+
+[![Solar Sailor's GitHub stats](https://github-readme-stats.vercel.app/api?username=solarsailorneo&hide=stars,contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Purpose
 To use the skills I have learned in my career to contribute to the development of web3.0. I want to build creative but secure smart contracts to leverage functionalities that add value to the global community.
 
@@ -15,8 +19,6 @@ To use the skills I have learned in my career to contribute to the development o
 ### [Digital Avatar Identity](https://github.com/solarsailorneo/digitalAvatarIdentity) (ERC725Y Contract) [2022] ([git](https://github.com/solarsailorneo/digitalAvatarIdentity)) [[workflow](https://github.com/solarsailorneo/digitalAvatarIdentity/network)]
 - Built a smart contract with a key that can store multiple retrievable attributes on-chain.
 - Built tests in hardhat and mocha to verify functionality of contract.
-
-
 
 ### [Multi Token Standard](https://github.com/solarsailorneo/mulitTokenStandard) (ERC1155 Contract) [2022] ([git](https://github.com/solarsailorneo/mulitTokenStandard)) [[workflow](https://github.com/solarsailorneo/mulitTokenStandard/network)]
 - Built a smart contract that inherited from the ERC1155 standard.
