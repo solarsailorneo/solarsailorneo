@@ -23,6 +23,11 @@ To use the skills I have learned in my career to contribute to the development o
 - Designed constructor so that a number of tokens can be set when deploying the contract.
 - Built test in hardhat and mocha to verify that the number of tokens were minted to the deployer wallet.
 
+### [ERC721a NFT Minter](https://github.com/solarsailorneo/optimizedNFTMinter) (ERC721a Contract and Frontend) [2022] [git](https://github.com/solarsailorneo/optimizedNFTMinter)
+- Leveraged an ERC-721a contract to create an optimized NFT minter website.
+- Connected Frontend with Hardhat and Remix to troubleshoot.
+- Understood at a high level the optimizations done in the ERC721a contract.
+
 ### [NFT Minter](https://snazzy-horse-8858d0.netlify.app/) (ERC721-Based Contract and Frontend) [2022] ([git](https://github.com/solarsailorneo/minterNFT)) [[workflow](https://github.com/solarsailorneo/minterNFT/network)]
 - Built a react frontend to mint NFTs.
 - Built and deployed an NFT-minter contract in the Rinkeby testnet.
