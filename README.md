@@ -12,48 +12,44 @@ To use the skills I have learned in my career to contribute to the development o
 
 ## Projects (Engineering: 7 years | Development: 4 years)
 
-### [Digital Avatar Identity](https://github.com/solarsailorneo/digitalAvatarIdentity) (ERC725Y Contract) [2022] ([git](https://github.com/solarsailorneo/digitalAvatarIdentity)) [[workflow](https://github.com/solarsailorneo/digitalAvatarIdentity/network)]
-- Built a smart contract with a key that can store multiple retrievable attributes on-chain.
-- Built tests in hardhat and mocha to verify functionality of contract.
-
-
-
-### [Multi Token Standard](https://github.com/solarsailorneo/mulitTokenStandard) (ERC1155 Contract) [2022] ([git](https://github.com/solarsailorneo/mulitTokenStandard)) [[workflow](https://github.com/solarsailorneo/mulitTokenStandard/network)]
-- Built a smart contract that inherited from the ERC1155 standard.
-- Designed constructor so that a number of tokens can be set when deploying the contract.
-- Built test in hardhat and mocha to verify that the number of tokens were minted to the deployer wallet.
-
-### [ERC721a NFT Minter](https://github.com/solarsailorneo/optimizedNFTMinter) (ERC721a Contract and Frontend) [2022] ([git](https://github.com/solarsailorneo/optimizedNFTMinter)) [[workflow](https://github.com/solarsailorneo/optimizedNFTMinter/network)]
+### ERC721a NFT Minter (ERC721a Contract and Frontend) [2022] <br /> ([website](https://optimizednftminter.netlify.app/) | [git](https://github.com/solarsailorneo/optimizedNFTMinter) | [workflow](https://github.com/solarsailorneo/optimizedNFTMinter/network) | [contract](https://goerli.etherscan.io/address/0xc920a9acb898621a1d951bc5ab5d9d81f183d5fb))
 - Leveraged a ERC-721a contract to create an optimized NFT minter website.
 - Connected Frontend with Hardhat and Remix to troubleshoot.
 - Understood at a high level the optimizations done in the ERC721a contract.
 
-### [NFT Minter](https://snazzy-horse-8858d0.netlify.app/) (ERC721-Based Contract and Frontend) [2022] ([git](https://github.com/solarsailorneo/minterNFT)) [[workflow](https://github.com/solarsailorneo/minterNFT/network)]
+### Digital Avatar Identity (ERC725Y Contract) [2022] <br /> ([git](https://github.com/solarsailorneo/digitalAvatarIdentity) | [workflow](https://github.com/solarsailorneo/digitalAvatarIdentity/network))
+- Built a smart contract with a key that can store multiple retrievable attributes on-chain.
+- Built tests in hardhat and mocha to verify functionality of contract.
+
+### Multi Token Standard (ERC1155 Contract) [2022] <br /> ([git](https://github.com/solarsailorneo/mulitTokenStandard) | [workflow](https://github.com/solarsailorneo/mulitTokenStandard/network))
+- Built a smart contract that inherited from the ERC1155 standard.
+- Designed constructor so that a number of tokens can be set when deploying the contract.
+- Built test in hardhat and mocha to verify that the number of tokens were minted to the deployer wallet.
+
+### NFT Minter (ERC721-Based Contract and Frontend) [2022] <br /> ([website](https://snazzy-horse-8858d0.netlify.app/) | [git](https://github.com/solarsailorneo/minterNFT) | [workflow](https://github.com/solarsailorneo/minterNFT/network) | [contract](https://rinkeby.etherscan.io/address/0xdebe8510ecb716408513c90a454416dc6dc79869))
 - Built a react frontend to mint NFTs.
 - Built and deployed an NFT-minter contract in the Rinkeby testnet.
-[0xdebe8510ecb716408513c90a454416dc6dc79869](https://rinkeby.etherscan.io/address/0xdebe8510ecb716408513c90a454416dc6dc79869).
 
-### [TestCoin](https://github.com/solarsailorneo/testCoinICO) (ERC20 Contract) [2022] ([git](https://github.com/solarsailorneo/testCoinICO)) [[workflow](https://github.com/solarsailorneo/testCoinICO/network)]
+### TestCoin (ERC20 Contract) [2022] <br /> ([git](https://github.com/solarsailorneo/testCoinICO) | [workflow](https://github.com/solarsailorneo/testCoinICO/network) | [contract](https://rinkeby.etherscan.io/token/0xCabfb905163A197931a88CBc226ea230007333Dc))
 - Built and deployed a smart contract for a test coin in the Rinkeby testnet.
-[0xCabfb905163A197931a88CBc226ea230007333Dc](https://rinkeby.etherscan.io/token/0xCabfb905163A197931a88CBc226ea230007333Dc).
 - Created a liquidity pool for TestCoin in Uniswap.
 
-### [Shared Wallet](https://github.com/solarsailorneo/sharedWallet) (Contract) [2022] ([git](https://github.com/solarsailorneo/sharedWallet)) [[workflow](https://github.com/solarsailorneo/sharedWallet/network)]
+### Shared Wallet (Contract) [2022] <br /> ([git](https://github.com/solarsailorneo/sharedWallet) | [workflow](https://github.com/solarsailorneo/sharedWallet/network))
 - Built a wallet that has an owner who can set allowances for other wallets.
 - Used modifier functionality to contain pre-function conditions.
 
-### [Token Crowdsale](https://github.com/solarsailorneo/tokenCrowdsale) (Contract) [2022] ([git](https://github.com/solarsailorneo/tokenCrowdsale)) [[workflow](https://github.com/solarsailorneo/tokenCrowdsale/network)]
+### Token Crowdsale (Contract) [2022] <br /> ([git](https://github.com/solarsailorneo/tokenCrowdsale) | [workflow](https://github.com/solarsailorneo/tokenCrowdsale/network))
 - Built a custom token that can be initially sold to a group of people.
 - Reentrancy-guard was used to prevent hacking of the crowdsale.
 - Used truffle deployment and chai tests to verify functionality.
 
-### [Venetian Election DAO](https://darling-nasturtium-65b4bd.netlify.app/)  (Frontend and Backend) [2022] ([git](https://github.com/solarsailorneo/venetianElectionDAO)) [[workflow](https://github.com/solarsailorneo/venetianElectionDAO/network)]
+### Venetian Election DAO (Frontend and Backend) [2022] <br /> ([website](https://darling-nasturtium-65b4bd.netlify.app/) | [git](https://github.com/solarsailorneo/venetianElectionDAO) | [workflow](https://github.com/solarsailorneo/venetianElectionDAO/network))
 - Designed a DAO wallet-election system based on the venetian election process (random/election rounds).
 - Built a react frontend for the designed election system leveraging a Moralis github repository.
 - Built a nodejs backend to compute the selection process.
 - Maintained my git repository with clean and coherent versioning, tags, commits, branches, and merging (copied repo to kill the trace. Ask for a screen share if want to see).
 
-### [NFT Transaction Tracker](https://vermillion-sfogliatella-6b7bdb.netlify.app/) (Frontend) [2022] ([git](https://github.com/solarsailorneo/eventDetectorNFT)) [[workflow](https://github.com/solarsailorneo/eventDetectorNFT/network)]
+### NFT Transaction Tracker (Frontend) [2022] <br /> ([website](https://vermillion-sfogliatella-6b7bdb.netlify.app/) | [git](https://github.com/solarsailorneo/eventDetectorNFT) | [workflow](https://github.com/solarsailorneo/eventDetectorNFT/network))
 - Built a react front-end with NFT contract input field to track transfers.
 
 ### NFT cross-asset Model [2021-present]
