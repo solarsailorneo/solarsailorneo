@@ -4,12 +4,6 @@
 ## Purpose
 To use the skills I have learned in my career to contribute to the development of web3.0. I want to build creative but secure smart contracts to leverage functionalities that add value to the global community.
 
-
-## Education
-- M.S. in Robotics - [Carnegie Mellon - Robotics Institute](https://www.ri.cmu.edu/) [2015-2017]
-- B.S. in Mechanical Engineering - [University of Florida](https://mae.ufl.edu/mechanical-engineering/)  [2011-2014]
-
-
 ## Projects (Engineering: 7 years | Development: 4 years)
 
 ### ERC721a NFT Minter (ERC721a Contract and Frontend) [2022] <br /> ([website](https://optimizednftminter.netlify.app/) | [git](https://github.com/solarsailorneo/optimizedNFTMinter) | [workflow](https://github.com/solarsailorneo/optimizedNFTMinter/network) | [contract](https://goerli.etherscan.io/address/0xc920a9acb898621a1d951bc5ab5d9d81f183d5fb))
