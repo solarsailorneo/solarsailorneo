@@ -2,9 +2,32 @@
 ## :envelope: solarsailorneo@protonmail.com
 
 ## Purpose
-To use the skills I have learned in my career to contribute to the development of web3.0. I want to build creative but secure smart contracts to leverage functionalities that add value to the global community.
+To use the skills I have learned in my career to contribute to the development of AI and web3.
 
-## Projects (Engineering: 7 years | Development: 4 years)
+## Projects (Engineering: 8 years | Development: 5 years)
+
+### DeductiveAI (Rust) <br /> [2023] (In progress)
+- Developed an AI with different approach than transformers to eliminate the inductive nature of the process.
+- Used specialized datastructure to accomplish deductive reasoning.
+- Designing zero-knowledge proof system that involves natural language (in progress).
+
+### AI to classify Documents (Rust, Python, React) <br /> [2023]
+- Developed an AI-powered tool capable of categorizing PDF documents into distinct classes, featuring an online interface for personalized model training.
+- Developed a rust backend to handle the classification of the trained model.
+- Developed a python backend with flask and pytorch to train individual models.
+- Developed a React frontend to direct the user to training or using the model.
+
+### CustomGPT (Rust, React, Pytorch) <br /> [2023]
+- Trained a custom AI using a GPT2 baseline for a chatbot.
+- Made a react frontend for chatting with the AI.
+- Made a rust backend that served the custom GPT2 model.
+- Created an admin dashboard for testing and constructing supervised learning data.
+
+### Filum Generative Art Project (React, P5.js, Solidity) [2022-2023] <br /> ([website](https://solarsailor.space/art) | [medium article](https://medium.com/@solarsailorneo/the-art-of-strings-knots-and-physics-a-journey-through-time-and-space-c986451220c3)
+- Created art project with novel approach using fundamental physics of strings.
+- Used ERC-721a contract with additional functionality for this specific project.
+- Designed a website that showcases multiple dynamic pieces of art simultenously with low amount of resources.
+- Deployed to Mainnet.
 
 ### ERC721a NFT Minter (ERC721a Contract and Frontend) [2022] <br /> ([website](https://optimizednftminter.netlify.app/) | [git](https://github.com/solarsailorneo/optimizedNFTMinter) | [workflow](https://github.com/solarsailorneo/optimizedNFTMinter/network) | [contract](https://goerli.etherscan.io/address/0xc920a9acb898621a1d951bc5ab5d9d81f183d5fb))
 - Leveraged a ERC-721a contract to create an optimized NFT minter website.
@@ -76,14 +99,15 @@ To use the skills I have learned in my career to contribute to the development o
 
 
 ### Skills
-- Solidity (7.5/10)
-- Hardhat, Truffle, Chai (7.0/10)	 
-- ReactJS (7.0/10)      
-- Node (7.0/10)
-- Git (9.0/10)
 - C++ (8.5/10)
+- Rust (8.0/10)
 - Python (8.0/10)
 - Pytorch (9.0/10)
+- Solidity (7.5/10)
+- Hardhat, Truffle, Chai (7.0/10)	 
+- ReactJS (8.5/10)      
+- Node (7.0/10)
+- Git (9.0/10)
 - Data Analytics (10.0/10)
 - Linux (8.7/10)
 
