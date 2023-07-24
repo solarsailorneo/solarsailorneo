@@ -23,7 +23,7 @@ To use the skills I have learned in my career to contribute to the development o
 - Made a rust backend that served the custom GPT2 model.
 - Created an admin dashboard for testing and constructing supervised learning data.
 
-### Filum Generative Art Project (React, P5.js, Solidity) [2022-2023] <br /> ([website](https://solarsailor.space/art) | [medium article](https://medium.com/@solarsailorneo/the-art-of-strings-knots-and-physics-a-journey-through-time-and-space-c986451220c3)
+### Filum Generative Art Project (React, P5.js, Solidity) [2022-2023] <br /> ([website](https://solarsailor.space/art) | [medium article](https://medium.com/@solarsailorneo/the-art-of-strings-knots-and-physics-a-journey-through-time-and-space-c986451220c3))
 - Created art project with novel approach using fundamental physics of strings.
 - Used ERC-721a contract with additional functionality for this specific project.
 - Designed a website that showcases multiple dynamic pieces of art simultenously with low amount of resources.
