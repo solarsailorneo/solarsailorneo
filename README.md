@@ -4,7 +4,7 @@
 ## Purpose
 To use the skills I have learned in my career to contribute to the development of AI and web3.
 
-## Projects (Engineering: 8 years | Development: 5 years)
+## Projects (Engineering: 9 years | Development: 6 years)
 
 ### DeductiveAI (Rust) <br /> [2023] (In progress)
 - Developed an AI with different approach than transformers to eliminate the inductive nature of the process.
